@@ -1,6 +1,5 @@
 .env
 __pycache__/
 *.pyc
-*.txt
 *.log
 *.db
